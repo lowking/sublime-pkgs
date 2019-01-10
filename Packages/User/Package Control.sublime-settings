@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"0_package_control_loader"
 	],
 	"installed_packages":
 	[
@@ -13,8 +14,10 @@
 		"Insert Nums",
 		"JsFormat",
 		"Oceanic Color Scheme",
+		"OmniMarkupPreviewer",
 		"Package Control",
 		"Pretty JSON",
+		"Table Editor",
 		"TrailingSpaces"
 	]
 }

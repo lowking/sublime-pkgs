@@ -2,16 +2,18 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"0_package_control_loader"
 	],
 	"installed_packages":
 	[
 		"Boxy Theme",
+		"Color Highlighter",
 		"ConvertChineseCharacters",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"HTML-CSS-JS Prettify",
 		"Insert Nums",
+		"JavaScript & NodeJS Snippets",
+		"jQuery",
 		"JsFormat",
 		"Oceanic Color Scheme",
 		"OmniMarkupPreviewer",
